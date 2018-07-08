@@ -19,8 +19,7 @@ public class MywebbootApplication {
 	 * 	    3.注解方式实现
 	 * 	    4.登陆的2次md5的实现 ( password -->  A+N+passwords+B+C  -->  Md5(str)  ---> MD5(Md5(str),salt))
 	 * 	    5.生成有序的长度的唯一ID SnowflakeId
-	 */
-
+*/
 
 
 
